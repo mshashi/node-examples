@@ -1,0 +1,9 @@
+{
+    "author": "",
+    "name": "sample",
+    "version": "0.0.1",
+    "devDependencies": {
+        "htmlparser": "^1.7.7",
+        "request": "^2.71.0"
+    }
+}

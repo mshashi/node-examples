@@ -1,0 +1,8 @@
+{
+    "author": "",
+    "name": "sample",
+    "version": "0.0.1",
+    "dependencies": {
+        "nimble": "~0.0.2"
+    }
+}
